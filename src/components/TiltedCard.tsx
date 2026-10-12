@@ -1,0 +1,16 @@
+import {useEffect,useRef,type PointerEvent} from 'react';
+import {motion,useMotionValue,useSpring,useReducedMotion} from 'motion/react';
+const springValues={damping:26,stiffness:160,mass:1};
+// Pointer-driven tilt on mouse, pen and touch; vertical swipes remain native scrolling.
+export default function TiltedCard({imageSrc,altText='Tilted card image',captionText='',containerHeight='300px',containerWidth='100%',imageHeight='300px',imageWidth='100%',scaleOnHover=1.05,rotateAmplitude=12,showMobileWarning=false,showTooltip=true,overlayContent=null,displayOverlayContent=false}:any){
+ const ref=useRef<HTMLElement>(null);const lastY=useRef(0);const touchActive=useRef(false);const timer=useRef<ReturnType<typeof setTimeout>|undefined>(undefined);const reduce=useReducedMotion();
+ const x=useMotionValue(0),y=useMotionValue(0);const rotateX=useSpring(0,springValues),rotateY=useSpring(0,springValues),scale=useSpring(1,springValues),opacity=useSpring(0),rotateFigcaption=useSpring(0,{stiffness:350,damping:30,mass:1});
+ function rest(){clearTimeout(timer.current);touchActive.current=false;opacity.set(0);scale.set(1);rotateX.set(0);rotateY.set(0);rotateFigcaption.set(0)}
+ useEffect(()=>()=>clearTimeout(timer.current),[]);
+ function move(e:PointerEvent<HTMLElement>){if(!ref.current||reduce||(e.pointerType==='touch'&&!touchActive.current))return;const rect=ref.current.getBoundingClientRect();const ox=e.clientX-rect.left-rect.width/2,oy=e.clientY-rect.top-rect.height/2;const amplitude=e.pointerType==='touch'?Math.min(rotateAmplitude,8):rotateAmplitude;const clamp=(v:number)=>Math.max(-1,Math.min(1,v));rotateX.set(clamp(oy/(rect.height/2))*-amplitude);rotateY.set(clamp(ox/(rect.width/2))*amplitude);if(e.pointerType!=='touch'){x.set(Math.min(rect.width-135,Math.max(8,e.clientX-rect.left+12)));y.set(e.clientY-rect.top-36);rotateFigcaption.set(Math.max(-12,Math.min(12,-(oy-lastY.current)*.6)));lastY.current=oy}}
+ function press(e:PointerEvent<HTMLElement>){if(reduce||e.pointerType==='mouse')return;clearTimeout(timer.current);touchActive.current=true;scale.set(Math.min(scaleOnHover,1.025));move(e);const r=ref.current?.getBoundingClientRect();if(r&&Math.abs(e.clientX-r.left-r.width/2)<r.width*.12&&Math.abs(e.clientY-r.top-r.height/2)<r.height*.12){rotateX.set(-4);rotateY.set(4)}}
+ return <figure ref={ref} className="tilted-card" style={{height:containerHeight,width:containerWidth,touchAction:'pan-y'}} onPointerDown={press} onPointerMove={move} onPointerEnter={e=>{if(!reduce&&e.pointerType!=='touch'){clearTimeout(timer.current);scale.set(scaleOnHover);opacity.set(1)}}} onPointerUp={e=>{if(e.pointerType!=='mouse'){touchActive.current=false;timer.current=setTimeout(rest,220)}}} onPointerLeave={e=>{if(e.pointerType!=='touch')rest()}} onPointerCancel={rest}>
+  <motion.div className="tilted-card-plane" style={{width:imageWidth,height:imageHeight,rotateX,rotateY,scale}}><div className="tilted-card-image shine-media"><img src={imageSrc} alt={altText} loading="lazy" draggable={false}/></div>{displayOverlayContent&&overlayContent&&<div className="tilted-card-overlay">{overlayContent}</div>}</motion.div>
+  {showTooltip&&<motion.figcaption className="tilted-caption" style={{x,y,opacity,rotate:rotateFigcaption}}>{captionText}</motion.figcaption>}
+ </figure>
+}

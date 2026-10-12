@@ -1,0 +1,1573 @@
+[
+  [
+    {
+      "name": "Simply Pizza Range",
+      "items": [
+        {
+          "name": "Biancaneve ( Cheese lovers )",
+          "description": "With pure olive oil and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Margherita",
+          "description": "With mozzarella and tomato sauce",
+          "price": ""
+        },
+        {
+          "name": "Garlic and Mozzarella",
+          "description": "With garlic, olive oil and mozzarella",
+          "price": ""
+        }
+      ],
+      "prices": "Medium (9 inch) : Rs.1280 | Large (12 inch) : Rs.1980"
+    },
+    {
+      "name": "Classic Pizza Range",
+      "items": [
+        {
+          "name": "Fungi ( Mushroom )",
+          "description": "With mushroom, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Veggie",
+          "description": "With mushroom, olives, bell peppers, onion, corn, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Sausage",
+          "description": "With chicken sausage, onion, tomato sauce and mozzarella",
+          "price": ""
+        }
+      ],
+      "prices": "Medium (9 inch) : Rs.1400 | Large (12 inch) : Rs.2350"
+    },
+    {
+      "name": "Supreme Pizza Range",
+      "items": [
+        {
+          "name": "Carbonara",
+          "description": "With bacon (pork), eggs, parmesan cheese and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Pesto Pizza",
+          "description": "With basil pesto, chicken and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Teriyaki Chicken",
+          "description": "With chicken, button mushroom, bell peppers, onion, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Chicken Hawaiian",
+          "description": "With chicken ham, pineapple, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Hot and Spicy Chicken",
+          "description": "With spicy chicken, green chillie, onion, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Bacon and Cheese",
+          "description": "With bacon (pork), tomato sauce, parmesan cheese and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Pizza Pollo",
+          "description": "With mushroom, Chicken bacon, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Cheesy Chicken ( For kids )",
+          "description": "With chicken, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Chicken & Sausage Delight",
+          "description": "With chicken, chicken sausage, onion, tomato sauce and mozzarella, green chilli",
+          "price": ""
+        }
+      ],
+      "prices": "Medium (9 inch) : Rs.1680 | Large (12 inch) : Rs.2650"
+    },
+    {
+      "name": "Premium Pizza Range",
+      "items": [
+        {
+          "name": "Napoletana ( Tomato )",
+          "description": "With tomato sauce, anchovies, capers and mozzarella cheese, olive oil",
+          "price": ""
+        },
+        {
+          "name": "Quattro Formaggi Pizza ( four Cheese )",
+          "description": "With parmesan cheese, cheddar cheese, blue cheese, mozzarella cheese with or without tomato sauce",
+          "price": ""
+        },
+        {
+          "name": "Tonno e Cipolla ( Tuna and Onion )",
+          "description": "With tuna, onion, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Frutti di mare ( Spicy Seafood )",
+          "description": "With prawns, calamari, tomato sauce, green chillie, onion and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Quattro Stagioni",
+          "description": "With tomato sauce, mushroom, bacon (pork), pepperoni (pork), olives and mozzarella - (mixed or separate)",
+          "price": ""
+        },
+        {
+          "name": "Rustica",
+          "description": "With tomato sauce, mushroom, bacon (pork), pepperoni (pork), eggs and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Pepperoni",
+          "description": "With pepperoni (pork), tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "BBQ Chicken",
+          "description": "With BBQ chicken, pineapple, onion, bell peppers, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Spicy Beef",
+          "description": "With marinated spicy pepper beef, onion, green chili, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Pork Black Curry",
+          "description": "With Sri Lankan style pork black curry, onion, green chili, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Capricciosa",
+          "description": "With chicken / Pork ham, Artichoke, mushroom, olive, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Pesto Beef Pizza",
+          "description": "With basil pesto, spicy beef and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Pizza Salmone",
+          "description": "With salmon, rose cherry tomatoes and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Pizza Beef BBQ",
+          "description": "With mozzarella, beef, bell pepper, corn, caramelized onion",
+          "price": ""
+        }
+      ],
+      "prices": "Medium (9 inch) : Rs.1980 | Large (12 inch) : Rs.2980"
+    },
+    {
+      "name": "Chef\u2019s Special Pizza Range",
+      "items": [
+        {
+          "name": "All Meat Pizza",
+          "description": "With spicy chicken, beef, Bacon (pork), chicken ham, chicken sausage, pepperoni (pork), tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "All Veggie - All Cheese",
+          "description": "With mushroom, olives, bell peppers, onion, and parmesan cheese, cheddar cheese, blue cheese, mozzarella on tomato sauce",
+          "price": ""
+        },
+        {
+          "name": "Pizza Quattro Pesce - Frutti Di Mare",
+          "description": "With tomato sauce, mozzarella, tuna, salmon, anchovies, prawns",
+          "price": ""
+        }
+      ],
+      "prices": "Medium (9 inch) : Rs.2450 | Large (12 inch) : Rs.3980"
+    },
+    {
+      "name": "Vito\u2019s Special - XL Size Pizza",
+      "items": [
+        {
+          "name": "Veggie",
+          "description": "",
+          "price": "Rs.4950"
+        },
+        {
+          "name": "Hot and Spicy Chicken",
+          "description": "",
+          "price": "Rs.5800"
+        },
+        {
+          "name": "Bacon (Pork) and Cheese",
+          "description": "",
+          "price": "Rs.5800"
+        },
+        {
+          "name": "Pepperoni (Pork)",
+          "description": "",
+          "price": "Rs.6400"
+        },
+        {
+          "name": "Frutti di mare ( Seafood )",
+          "description": "",
+          "price": "Rs.6700"
+        }
+      ],
+      "note": "18 inch - for 04 person"
+    },
+    {
+      "name": "Extra Toppings For Pizza",
+      "items": [
+        {
+          "name": "Olive/ Mushroom/ Pineapple - Medium: RS. 150 | Large: RS. 250",
+          "description": "",
+          "price": ""
+        },
+        {
+          "name": "Mozzarella Cheese - Medium: RS. 350 | Large: RS. 550",
+          "description": "",
+          "price": ""
+        },
+        {
+          "name": "Vegetable / Sausage - Medium: RS. 350 | Large: RS. 550",
+          "description": "",
+          "price": ""
+        },
+        {
+          "name": "Chicken / Chicken Ham / Bacon - Medium: RS. 350 | Large: RS. 550",
+          "description": "",
+          "price": ""
+        },
+        {
+          "name": "Tuna - Medium: RS. 500 | Large: RS. 650",
+          "description": "",
+          "price": ""
+        },
+        {
+          "name": "Pepperoni / Beef - Medium: RS. 600 | Large: RS. 880",
+          "description": "",
+          "price": ""
+        },
+        {
+          "name": "Sea food / Four Cheese - Medium: RS. 750 | Large: RS. 1000",
+          "description": "",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "name": "Calzone",
+      "items": [
+        {
+          "name": "Vegetable Calzone",
+          "description": "With mushroom, olives, bell peppers, onion, tomato sauce and mozzarella",
+          "price": "Rs. 1100"
+        },
+        {
+          "name": "Calzone Classic",
+          "description": "With mushroom, chicken ham, tomato sauce and mozzarella",
+          "price": "Rs. 1250"
+        },
+        {
+          "name": "Calzone Stella",
+          "description": "With tuna, onion, olives, capers, tomato sauce and mozzarella",
+          "price": "Rs. 1750"
+        }
+      ]
+    },
+    {
+      "name": "Salad",
+      "items": [
+        {
+          "name": "Tomato Mozzarella Salad",
+          "description": "Tomato and Mozzarella tossed with pesto sauce",
+          "price": "Rs. 950"
+        },
+        {
+          "name": "Tuna Pasta Salad",
+          "description": "Penne pasta tossed with tuna, cucumber, onion, tomato carrot, bell peppers and parmesan cheese.",
+          "price": "Rs. 1750"
+        },
+        {
+          "name": "Italian Summer Salad",
+          "description": "Penne pasta tossed with pepperoni, onion, tomato, olive, cucumber, cheddar cheese and parmesan cheese.",
+          "price": "Rs. 2150"
+        }
+      ]
+    },
+    {
+      "name": "Pasta",
+      "items": [
+        {
+          "name": "Aglio E Olio",
+          "description": "With garlic, green chilli, stock water, parmesan cheese and olive oil",
+          "price": "Rs. 1750"
+        },
+        {
+          "name": "Pasta Pesto",
+          "description": "With basil pesto and cream sauce, and parmesan cheese ( With or without chicken )",
+          "price": "Rs. 2000"
+        },
+        {
+          "name": "Chicken Alfredo",
+          "description": "With Chicken, mushroom, cream sauce and parmesan cheese",
+          "price": "Rs. 2100"
+        },
+        {
+          "name": "Pasta Carbonara",
+          "description": "With bacon (pork), cream sauce, egg and parmesan cheese",
+          "price": "Rs. 2350"
+        },
+        {
+          "name": "Seafood - Marinara",
+          "description": "With spicy prawns, calamari, marinara sauce / cream sauce and parmesan cheese",
+          "price": "Rs.2150"
+        },
+        {
+          "name": "Four Cheese Pasta",
+          "description": "With cream sauce, parmesan cheese, cheddar cheese, blue cheese, mozzarella cheese ( with or without bacon )",
+          "price": "Rs.2500"
+        },
+        {
+          "name": "Four Meat Pasta",
+          "description": "With cream sauce, bacon (pork), spicy beef, seafood and chicken",
+          "price": "Rs.2800"
+        },
+        {
+          "name": "Pasta Arrabbiata",
+          "description": "with olive oil, garlic, tomato sauce, parmesan",
+          "price": "Rs.1800"
+        },
+        {
+          "name": "Pasta Salmone \u2013 Frutti di Mare",
+          "description": "With salmon, olive oil, onion, cooking cream, parmesan",
+          "price": "Rs.2350"
+        },
+        {
+          "name": "Pasta Tonno Rosso",
+          "description": "With tuna, cherry tomato, green chilli, garlic, capers, parsley, tomato sauce, olive oil",
+          "price": "Rs.2350"
+        }
+      ]
+    },
+    {
+      "name": "Lasagna",
+      "items": [
+        {
+          "name": "Chicken Lasagna",
+          "description": "",
+          "price": "Rs. 2250"
+        }
+      ]
+    },
+    {
+      "name": "Dessert",
+      "items": [
+        {
+          "name": "Ice Cream ( Select one from Vanilla / Strawberry / Chocolate )",
+          "description": "",
+          "price": "Rs. 700"
+        },
+        {
+          "name": "Ice Cream ( Select one from Butter scotch / Mango )",
+          "description": "",
+          "price": "Rs. 800"
+        },
+        {
+          "name": "Home made dessert (On availability)",
+          "description": "",
+          "price": "Rs. 800"
+        },
+        {
+          "name": "Affogato (Chocolate / Caramel)",
+          "description": "",
+          "price": "Rs. 800"
+        }
+      ]
+    },
+    {
+      "name": "Drinks",
+      "items": [
+        {
+          "name": "Milkshakes (Chocolate / Vanilla / Strawberry / Mango/ Coconut)",
+          "description": "",
+          "price": "Rs. 950"
+        },
+        {
+          "name": "Coconut & Honey Milkshake",
+          "description": "",
+          "price": "Rs. 1050"
+        },
+        {
+          "name": "Fresh Lime Juice / Lime Soda",
+          "description": "",
+          "price": "Rs. 750"
+        },
+        {
+          "name": "Fresh Pineapple Juice",
+          "description": "",
+          "price": "Rs. 880"
+        },
+        {
+          "name": "Fresh Orange Juice",
+          "description": "",
+          "price": "Rs. 950"
+        },
+        {
+          "name": "Virgin Mojito",
+          "description": "",
+          "price": "Rs. 840"
+        },
+        {
+          "name": "Passion Mojito",
+          "description": "",
+          "price": "Rs. 920"
+        },
+        {
+          "name": "Pineapple Mojito",
+          "description": "",
+          "price": "Rs. 920"
+        },
+        {
+          "name": "Blue Mojito",
+          "description": "",
+          "price": "Rs. 920"
+        },
+        {
+          "name": "Orange Mojito",
+          "description": "",
+          "price": "Rs. 1100"
+        },
+        {
+          "name": "Strawberry Mojito",
+          "description": "",
+          "price": "Rs. 1100"
+        },
+        {
+          "name": "Lemon Iced tea",
+          "description": "",
+          "price": "Rs. 800"
+        },
+        {
+          "name": "Soft Drinks 400 ml",
+          "description": "( Pepse/ 7UP / EGB )",
+          "price": "Rs. 320"
+        },
+        {
+          "name": "Red Bull (250ml)",
+          "description": "",
+          "price": "MRP"
+        },
+        {
+          "name": "Mineral Water - 400 ml",
+          "description": "",
+          "price": "MRP"
+        },
+        {
+          "name": "Mineral Water - 1L",
+          "description": "",
+          "price": "MRP"
+        },
+        {
+          "name": "Olu Sparkling Water - 330 ml",
+          "description": "",
+          "price": "MRP"
+        }
+      ]
+    },
+    {
+      "name": "Cocktails",
+      "items": [
+        {
+          "name": "Dark & Stormy cocktail",
+          "description": "",
+          "price": "Rs. 1350"
+        },
+        {
+          "name": "Blue Mojito cocktail",
+          "description": "",
+          "price": "Rs. 1350"
+        },
+        {
+          "name": "Rosso d.More",
+          "description": "",
+          "price": "Rs. 1850"
+        },
+        {
+          "name": "Passione Estiva",
+          "description": "",
+          "price": "Rs. 1960"
+        },
+        {
+          "name": "Lychee Flore",
+          "description": "",
+          "price": "Rs. 2200"
+        },
+        {
+          "name": "Vito Forte Island",
+          "description": "",
+          "price": "Rs. 2350"
+        },
+        {
+          "name": "Lion Larger beer - 500 ml can",
+          "description": "",
+          "price": "Rs. 800"
+        },
+        {
+          "name": "Red or White Wine - 750ml Bottle",
+          "description": "",
+          "price": "Rs. 6500"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Simply Pizza Range",
+      "items": [
+        {
+          "name": "Biancaneve ( Cheese lovers )",
+          "description": "With pure olive oil and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Margherita",
+          "description": "With mozzarella and tomato sauce",
+          "price": ""
+        },
+        {
+          "name": "Garlic and Mozzarella",
+          "description": "With garlic, olive oil and mozzarella",
+          "price": ""
+        }
+      ],
+      "prices": "Medium (9 inch) : Rs.1280 | Large (12 inch) : Rs.1980"
+    },
+    {
+      "name": "Classic Pizza Range",
+      "items": [
+        {
+          "name": "Fungi ( Mushroom )",
+          "description": "With mushroom, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Veggie",
+          "description": "With mushroom, olives, bell peppers, onion, corn, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Sausage",
+          "description": "With chicken sausage, onion, tomato sauce and mozzarella",
+          "price": ""
+        }
+      ],
+      "prices": "Medium (9 inch) : Rs.1400 | Large (12 inch) : Rs.2350"
+    },
+    {
+      "name": "Supreme Pizza Range",
+      "items": [
+        {
+          "name": "Carbonara",
+          "description": "With bacon (pork), eggs, parmesan cheese and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Pesto Pizza",
+          "description": "With basil pesto, chicken and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Teriyaki Chicken",
+          "description": "With chicken, button mushroom, bell peppers, onion, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Chicken Hawaiian",
+          "description": "With chicken ham, pineapple, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Hot and Spicy Chicken",
+          "description": "With spicy chicken, green chillie, onion, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Bacon and Cheese",
+          "description": "With bacon (pork), tomato sauce, parmesan cheese and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Pizza Pollo",
+          "description": "With mushroom, Chicken bacon, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Cheesy Chicken ( For kids )",
+          "description": "With chicken, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Chicken & Sausage Delight",
+          "description": "With chicken, chicken sausage, onion, tomato sauce and mozzarella, green chilli",
+          "price": ""
+        }
+      ],
+      "prices": "Medium (9 inch) : Rs.1680 | Large (12 inch) : Rs.2650 "
+    },
+    {
+      "name": "Premium Pizza Range",
+      "items": [
+        {
+          "name": "Napoletana ( Tomato )",
+          "description": "With tomato sauce, anchovies, capers and mozzarella cheese, olive oil",
+          "price": ""
+        },
+        {
+          "name": "Quattro Formaggi Pizza ( four Cheese )",
+          "description": "With parmesan cheese, cheddar cheese, blue cheese, mozzarella cheese with or without tomato sauce",
+          "price": ""
+        },
+        {
+          "name": "Tonno e Cipolla ( Tuna and Onion )",
+          "description": "With tuna, onion, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Frutti di mare ( Spicy Seafood )",
+          "description": "With prawns, calamari, tomato sauce, green chillie, onion and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Quattro Stagioni",
+          "description": "With tomato sauce, mushroom, bacon (pork), pepperoni (pork), olives and mozzarella - (mixed or separate)",
+          "price": ""
+        },
+        {
+          "name": "Rustica",
+          "description": "With tomato sauce, mushroom, bacon (pork), pepperoni (pork), eggs and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Pepperoni",
+          "description": "With pepperoni (pork), tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "BBQ Chicken",
+          "description": "With BBQ chicken, pineapple, onion, bell peppers, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Spicy Beef",
+          "description": "With marinated spicy pepper beef, onion, green chili, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Pork Black Curry",
+          "description": "With Sri Lankan style pork black curry, onion, green chili, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Capricciosa",
+          "description": "With chicken / Pork ham, Artichoke, mushroom, olive, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Pesto Beef Pizza",
+          "description": "With basil pesto, spicy beef and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Pizza Salmone",
+          "description": "With salmon, rose cherry tomatoes and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Pizza Beef BBQ",
+          "description": "With mozzarella, beef, bell pepper, corn, caramelized onion",
+          "price": ""
+        }
+      ],
+      "prices": "Medium (9 inch) : Rs.1980 | Large (12 inch) : Rs.2980"
+    },
+    {
+      "name": "Chef\u2019s Special Pizza Range",
+      "items": [
+        {
+          "name": "All Meat Pizza",
+          "description": "With spicy chicken, beef, Bacon (pork), chicken ham, chicken sausage, pepperoni (pork), tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "All Veggie - All Cheese",
+          "description": "With mushroom, olives, bell peppers, onion, and parmesan cheese, cheddar cheese, blue cheese, mozzarella on tomato sauce",
+          "price": ""
+        },
+        {
+          "name": "Pizza Quattro Pesce - Frutti Di Mare",
+          "description": "With tomato sauce, mozzarella, tuna, salmon, anchovies, prawns",
+          "price": ""
+        }
+      ],
+      "prices": "Medium (9 inch) : Rs. 2450 | Large (12 inch) : Rs. 3980 "
+    },
+    {
+      "name": "Vito\u2019s Special - XL Size Pizza",
+      "items": [
+        {
+          "name": "Veggie",
+          "description": "",
+          "price": "Rs.4950"
+        },
+        {
+          "name": "Hot and Spicy Chicken",
+          "description": "",
+          "price": "Rs.5800"
+        },
+        {
+          "name": "Bacon (Pork) and Cheese",
+          "description": "",
+          "price": "Rs.5800"
+        },
+        {
+          "name": "Pepperoni (Pork)",
+          "description": "",
+          "price": "Rs.6400"
+        },
+        {
+          "name": "Frutti di mare ( Seafood )",
+          "description": "",
+          "price": "Rs.6700"
+        }
+      ],
+      "note": "18 inch - for 04 person"
+    },
+    {
+      "name": "Extra Toppings For Pizza",
+      "items": [
+        {
+          "name": "Olive/ Mushroom/ Pineapple - Medium: RS. 1 50 | Large: RS. 2 50",
+          "description": "",
+          "price": ""
+        },
+        {
+          "name": "Mozzarella Cheese - Medium: RS. 350 | Large: RS. 550",
+          "description": "",
+          "price": ""
+        },
+        {
+          "name": "Vegetable / Sausage - Medium: RS. 350 | Large: RS. 550",
+          "description": "",
+          "price": ""
+        },
+        {
+          "name": "Chicken / Chicken Ham / Bacon - Medium: RS. 350 | Large: RS. 550",
+          "description": "",
+          "price": ""
+        },
+        {
+          "name": "Tuna - Medium: RS. 50 0 | Large: RS. 6 50",
+          "description": "",
+          "price": ""
+        },
+        {
+          "name": "Pepperoni / Beef - Medium: RS. 600 | Large: RS. 880",
+          "description": "",
+          "price": ""
+        },
+        {
+          "name": "Sea food / Four Cheese - Medium: RS. 750 | Large: RS. 1000",
+          "description": "",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "name": "Calzone",
+      "items": [
+        {
+          "name": "Vegetable Calzone",
+          "description": "With mushroom, olives, bell peppers, onion, tomato sauce and mozzarella",
+          "price": "Rs. 1100"
+        },
+        {
+          "name": "Calzone Classic",
+          "description": "With mushroom, chicken ham, tomato sauce and mozzarella",
+          "price": "Rs. 1250"
+        },
+        {
+          "name": "Calzone Stella",
+          "description": "With tuna, onion, olives, capers, tomato sauce and mozzarella",
+          "price": "Rs. 1750"
+        }
+      ]
+    },
+    {
+      "name": "Salad",
+      "items": [
+        {
+          "name": "Tomato Mozzarella Salad",
+          "description": "Tomato and Mozzarella tossed with pesto sauce",
+          "price": "Rs. 950"
+        },
+        {
+          "name": "Tuna Pasta Salad",
+          "description": "Penne pasta tossed with tuna, cucumber, onion, tomato carrot, bell peppers and parmesan cheese.",
+          "price": "Rs. 1750"
+        },
+        {
+          "name": "Italian Summer Salad",
+          "description": "Penne pasta tossed with pepperoni, onion, tomato, olive, cucumber, cheddar cheese and parmesan cheese.",
+          "price": "Rs. 2150"
+        }
+      ]
+    },
+    {
+      "name": "Pasta",
+      "items": [
+        {
+          "name": "Aglio E Olio",
+          "description": "With garlic, green chilli, stock water, parmesan cheese and olive oil",
+          "price": "Rs. 1750"
+        },
+        {
+          "name": "Pasta Pesto",
+          "description": "With basil pesto and cream sauce, and parmesan cheese ( With or without chicken )",
+          "price": "Rs. 2000"
+        },
+        {
+          "name": "Chicken Alfredo",
+          "description": "With Chicken, mushroom, cream sauce and parmesan cheese",
+          "price": "Rs. 2100"
+        },
+        {
+          "name": "Pasta Carbonara",
+          "description": "With bacon (pork), cream sauce, egg and parmesan cheese",
+          "price": "Rs. 2350"
+        },
+        {
+          "name": "Seafood - Marinara",
+          "description": "With spicy prawns, calamari, marinara sauce / cream sauce and parmesan cheese",
+          "price": "Rs.2150"
+        },
+        {
+          "name": "Four Cheese Pasta",
+          "description": "With cream sauce, parmesan cheese, cheddar cheese, blue cheese, mozzarella cheese ( with or without bacon )",
+          "price": "Rs.2500"
+        },
+        {
+          "name": "Four Meat Pasta",
+          "description": "With cream sauce, bacon (pork), spicy beef, seafood and chicken",
+          "price": "Rs.2800"
+        },
+        {
+          "name": "Pasta Arrabbiata",
+          "description": "with olive oil, garlic, tomato sauce, parmesan",
+          "price": "Rs. 1 800"
+        },
+        {
+          "name": "Pasta Salmone \u2013 Frutti di Mare",
+          "description": "With salmon, olive oil, onion, cooking cream, parmesan",
+          "price": "Rs. 2350"
+        },
+        {
+          "name": "Pasta Tonno Rosso",
+          "description": "With tuna, cherry tomato, green chilli, garlic, capers, parsley, tomato sauce, olive oil",
+          "price": "Rs. 2350"
+        }
+      ]
+    },
+    {
+      "name": "Lasagna",
+      "items": [
+        {
+          "name": "Chicken Lasagna",
+          "description": "",
+          "price": "Rs. 2250"
+        }
+      ]
+    },
+    {
+      "name": "Dessert",
+      "items": [
+        {
+          "name": "Ice Cream ( Select one from Vanilla / Strawberry / Chocolate )",
+          "description": "",
+          "price": "Rs. 700"
+        },
+        {
+          "name": "Ice Cream ( Select one from Butter scotch / Mango )",
+          "description": "",
+          "price": "Rs. 800"
+        },
+        {
+          "name": "Home made dessert (On availability)",
+          "description": "",
+          "price": "Rs. 800"
+        },
+        {
+          "name": "Affogato (Chocolate / Caramel )",
+          "description": "",
+          "price": "Rs. 800"
+        }
+      ]
+    },
+    {
+      "name": "Drinks",
+      "items": [
+        {
+          "name": "Milkshakes (Chocolate / Vanilla / Strawberry / Mango / Coconut )",
+          "description": "",
+          "price": "Rs. 950"
+        },
+        {
+          "name": "Coconut & Honey Milkshake",
+          "description": "",
+          "price": "Rs. 1050"
+        },
+        {
+          "name": "Fresh Lime Juice / Lime Soda",
+          "description": "",
+          "price": "Rs. 750"
+        },
+        {
+          "name": "Fresh Pineapple Juice",
+          "description": "",
+          "price": "Rs. 880"
+        },
+        {
+          "name": "Fresh Orange Juice",
+          "description": "",
+          "price": "Rs. 950"
+        },
+        {
+          "name": "Virgin Mojito",
+          "description": "",
+          "price": "Rs. 840"
+        },
+        {
+          "name": "Passion Mojito",
+          "description": "",
+          "price": "Rs. 920"
+        },
+        {
+          "name": "Pineapple Mojito",
+          "description": "",
+          "price": "Rs. 920"
+        },
+        {
+          "name": "Blue Mojito",
+          "description": "",
+          "price": "Rs. 920"
+        },
+        {
+          "name": "Orange Mojito",
+          "description": "",
+          "price": "Rs. 1100"
+        },
+        {
+          "name": "Strawberry Mojito",
+          "description": "",
+          "price": "Rs. 1100"
+        },
+        {
+          "name": "Lemon Iced tea",
+          "description": "",
+          "price": "Rs. 800"
+        },
+        {
+          "name": "Soft Drinks 400 ml",
+          "description": "( Pepse/ 7UP / EGB )",
+          "price": "Rs. 320"
+        },
+        {
+          "name": "Red Bull (250ml)",
+          "description": "",
+          "price": "MRP"
+        },
+        {
+          "name": "Mineral Water - 400 ml",
+          "description": "",
+          "price": "MRP"
+        },
+        {
+          "name": "Mineral Water - 1L",
+          "description": "",
+          "price": "MRP"
+        },
+        {
+          "name": "Olu Sparkling Water - 330 ml",
+          "description": "",
+          "price": "MRP"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Simply Pizza Range",
+      "items": [
+        {
+          "name": "Biancaneve ( Cheese lovers )",
+          "description": "With pure olive oil and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Margherita",
+          "description": "With mozzarella and tomato sauce",
+          "price": ""
+        },
+        {
+          "name": "Garlic and Mozzarella",
+          "description": "With garlic, olive oil and mozzarella",
+          "price": ""
+        }
+      ],
+      "prices": "Medium (9 inch) : Rs.1280 | Large (12 inch) : Rs.1980"
+    },
+    {
+      "name": "Classic Pizza Range",
+      "items": [
+        {
+          "name": "Fungi ( Mushroom )",
+          "description": "With mushroom, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Veggie",
+          "description": "With mushroom, olives, bell peppers, onion, corn, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Sausage",
+          "description": "With chicken sausage, onion, tomato sauce and mozzarella",
+          "price": ""
+        }
+      ],
+      "prices": "Medium (9 inch) : Rs.1400 | Large (12 inch) : Rs.2350"
+    },
+    {
+      "name": "Supreme Pizza Range",
+      "items": [
+        {
+          "name": "Carbonara",
+          "description": "With bacon ( chicken ), eggs, parmesan cheese and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Pesto Pizza",
+          "description": "With basil pesto, chicken and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Teriyaki Chicken",
+          "description": "With chicken, button mushroom, bell peppers, onion, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Chicken Hawaiian",
+          "description": "With chicken ham, pineapple, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Hot and Spicy Chicken",
+          "description": "With spicy chicken, green chillie, onion, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Bacon and Cheese",
+          "description": "With bacon ( chicken ), tomato sauce, parmesan cheese and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Pizza Pollo",
+          "description": "With mushroom, Chicken bacon, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Cheesy Chicken ( For kids )",
+          "description": "With chicken, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Chicken & Sausage Delight",
+          "description": "With chicken, chicken sausage, onion, tomato sauce and mozzarella, green chilli",
+          "price": ""
+        }
+      ],
+      "prices": "Medium (9 inch) : Rs.1680 | Large (12 inch) : Rs.2650"
+    },
+    {
+      "name": "Premium Pizza Range",
+      "items": [
+        {
+          "name": "Napoletana ( Tomato )",
+          "description": "With tomato sauce, anchovies, capers and mozzarella cheese, olive oil",
+          "price": ""
+        },
+        {
+          "name": "Quattro Formaggi Pizza ( four Cheese )",
+          "description": "With parmesan cheese, cheddar cheese, blue cheese, mozzarella cheese with or without tomato sauce",
+          "price": ""
+        },
+        {
+          "name": "Tonno e Cipolla ( Tuna and Onion )",
+          "description": "With tuna, onion, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Frutti di mare ( Spicy Seafood )",
+          "description": "With prawns, calamari, tomato sauce, green chillie, onion and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Quattro Stagioni",
+          "description": "With tomato sauce, mushroom, bacon ( chicken ), pepperoni ( chicken/beef ), olives and mozzarella - (mixed or separate)",
+          "price": ""
+        },
+        {
+          "name": "Rustica",
+          "description": "With tomato sauce, mushroom, bacon ( chicken ), pepperoni (chicken/beef), eggs and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Pepperoni",
+          "description": "With pepperoni (chicken/beef), tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "BBQ Chicken",
+          "description": "With BBQ chicken, pineapple, onion, bell peppers, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Spicy Beef",
+          "description": "With marinated spicy pepper beef, onion, green chili, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Capricciosa",
+          "description": "With chicken / Pork ham, Artichoke, mushroom, olive, tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Pesto Beef Pizza",
+          "description": "With basil pesto, spicy beef and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Pizza Salmone",
+          "description": "With salmon, rose cherry tomatoes and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "Pizza Beef BBQ",
+          "description": "With mozzarella, beef, bell pepper, corn, caramelized onion",
+          "price": ""
+        }
+      ],
+      "prices": "Medium (9 inch) : Rs.1980 | Large (12 inch) : Rs.2980"
+    },
+    {
+      "name": "Chef\u2019s Special Pizza Range",
+      "items": [
+        {
+          "name": "All Meat Pizza",
+          "description": "With spicy chicken, beef, Bacon ( chicken ), chicken ham, chicken sausage, pepperoni (chicken/beef), tomato sauce and mozzarella",
+          "price": ""
+        },
+        {
+          "name": "All Veggie - All Cheese",
+          "description": "With mushroom, olives, bell peppers, onion, and parmesan cheese, cheddar cheese, blue cheese, mozzarella on tomato sauce",
+          "price": ""
+        },
+        {
+          "name": "Pizza Quattro Pesce - Frutti Di Mare",
+          "description": "With tomato sauce, mozzarella, tuna, salmon, anchovies, prawns",
+          "price": ""
+        }
+      ],
+      "prices": "Medium (9 inch) : Rs.2450 | Large (12 inch) : Rs.3980"
+    },
+    {
+      "name": "Vito\u2019s Special - XL Size Pizza",
+      "items": [
+        {
+          "name": "Veggie",
+          "description": "",
+          "price": "Rs.4950"
+        },
+        {
+          "name": "Hot and Spicy Chicken",
+          "description": "",
+          "price": "Rs.5800"
+        },
+        {
+          "name": "Bacon ( chicken ) and Cheese",
+          "description": "",
+          "price": "Rs.5800"
+        },
+        {
+          "name": "Pepperoni ( chicken/beef )",
+          "description": "",
+          "price": "Rs.6400"
+        },
+        {
+          "name": "Frutti di mare ( Seafood )",
+          "description": "",
+          "price": "Rs.6700"
+        }
+      ],
+      "note": "18 inch - for 04 person"
+    },
+    {
+      "name": "Extra Toppings For Pizza",
+      "items": [
+        {
+          "name": "Olive/ Mushroom/ Pineapple - Medium: RS. 150 | Large: RS. 250",
+          "description": "",
+          "price": ""
+        },
+        {
+          "name": "Mozzarella Cheese - Medium: RS. 350 | Large: RS. 550",
+          "description": "",
+          "price": ""
+        },
+        {
+          "name": "Vegetable / Sausage - Medium: RS. 350 | Large: RS. 550",
+          "description": "",
+          "price": ""
+        },
+        {
+          "name": "Chicken / Chicken Ham / Chicken Bacon - Medium: RS. 350 | Large: RS. 550",
+          "description": "",
+          "price": ""
+        },
+        {
+          "name": "Tuna - Medium: RS. 500 | Large: RS. 650",
+          "description": "",
+          "price": ""
+        },
+        {
+          "name": "Pepperoni / Beef - Medium: RS. 600 | Large: RS. 880",
+          "description": "",
+          "price": ""
+        },
+        {
+          "name": "Sea food / Four Cheese - Medium: RS. 750 | Large: RS. 1000",
+          "description": "",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "name": "Calzone",
+      "items": [
+        {
+          "name": "Vegetable Calzone",
+          "description": "With mushroom, olives, bell peppers, onion, tomato sauce and mozzarella",
+          "price": "Rs. 1100"
+        },
+        {
+          "name": "Calzone Classic",
+          "description": "With mushroom, chicken ham, tomato sauce and mozzarella",
+          "price": "Rs. 1250"
+        },
+        {
+          "name": "Calzone Stella",
+          "description": "With tuna, onion, olives, capers, tomato sauce and mozzarella",
+          "price": "Rs. 1750"
+        }
+      ]
+    },
+    {
+      "name": "Salad",
+      "items": [
+        {
+          "name": "Tomato Mozzarella Salad",
+          "description": "Tomato and Mozzarella tossed with pesto sauce",
+          "price": "Rs. 950"
+        },
+        {
+          "name": "Tuna Pasta Salad",
+          "description": "Penne pasta tossed with tuna, cucumber, onion, tomato carrot, bell peppers and parmesan cheese.",
+          "price": "Rs. 1750"
+        },
+        {
+          "name": "Italian Summer Salad",
+          "description": "Penne pasta tossed with pepperoni, onion, tomato, olive, cucumber, cheddar cheese and parmesan cheese.",
+          "price": "Rs. 2150"
+        }
+      ]
+    },
+    {
+      "name": "Pasta",
+      "items": [
+        {
+          "name": "Aglio E Olio",
+          "description": "With garlic, green chilli, stock water, parmesan cheese and olive oil",
+          "price": "Rs. 1750"
+        },
+        {
+          "name": "Pasta Pesto",
+          "description": "With basil pesto and cream sauce, and parmesan cheese ( With or without chicken )",
+          "price": "Rs. 2000"
+        },
+        {
+          "name": "Chicken Alfredo",
+          "description": "With Chicken, mushroom, cream sauce and parmesan cheese",
+          "price": "Rs. 2100"
+        },
+        {
+          "name": "Pasta Carbonara",
+          "description": "With bacon (pork), cream sauce, egg and parmesan cheese",
+          "price": "Rs. 2350"
+        },
+        {
+          "name": "Seafood - Marinara",
+          "description": "With spicy prawns, calamari, marinara sauce / cream sauce and parmesan cheese",
+          "price": "Rs.2150"
+        },
+        {
+          "name": "Four Cheese Pasta",
+          "description": "With cream sauce, parmesan cheese, cheddar cheese, blue cheese, mozzarella cheese ( with or without bacon )",
+          "price": "Rs.2500"
+        },
+        {
+          "name": "Four Meat Pasta",
+          "description": "With cream sauce, bacon ( chicken ), spicy beef, seafood and chicken",
+          "price": "Rs.2800"
+        },
+        {
+          "name": "Pasta Arrabbiata",
+          "description": "with olive oil, garlic, tomato sauce, parmesan",
+          "price": "Rs.1800"
+        },
+        {
+          "name": "Pasta Salmone \u2013 Frutti di Mare",
+          "description": "With salmon, olive oil, onion, cooking cream, parmesan",
+          "price": "Rs.2350"
+        },
+        {
+          "name": "Pasta Tonno Rosso",
+          "description": "With tuna, cherry tomato, green chilli, garlic, capers, parsley, tomato sauce, olive oil",
+          "price": "Rs.2350"
+        }
+      ]
+    },
+    {
+      "name": "Lasagna",
+      "items": [
+        {
+          "name": "Chicken Lasagna",
+          "description": "",
+          "price": "Rs. 2250"
+        }
+      ]
+    },
+    {
+      "name": "Dessert",
+      "items": [
+        {
+          "name": "Ice Cream ( Select one from Vanilla / Strawberry / Chocolate )",
+          "description": "",
+          "price": "Rs. 700"
+        },
+        {
+          "name": "Ice Cream ( Select one from Butter scotch / Mango )",
+          "description": "",
+          "price": "Rs. 800"
+        },
+        {
+          "name": "Home made dessert (On availability)",
+          "description": "",
+          "price": "Rs. 800"
+        },
+        {
+          "name": "Affogato (Chocolate / Caramel)",
+          "description": "",
+          "price": "Rs. 800"
+        }
+      ]
+    },
+    {
+      "name": "Drinks",
+      "items": [
+        {
+          "name": "Milkshakes (Chocolate / Vanilla / Strawberry / Mango/ Coconut)",
+          "description": "",
+          "price": "Rs. 950"
+        },
+        {
+          "name": "Coconut & Honey Milkshake",
+          "description": "",
+          "price": "Rs. Rs. 1050"
+        },
+        {
+          "name": "Fresh Lime Juice / Lime Soda",
+          "description": "",
+          "price": "Rs. 750"
+        },
+        {
+          "name": "Fresh Pineapple Juice",
+          "description": "",
+          "price": "Rs. 880"
+        },
+        {
+          "name": "Fresh Orange Juice",
+          "description": "",
+          "price": "Rs. 950"
+        },
+        {
+          "name": "Virgin Mojito",
+          "description": "",
+          "price": "Rs. 840"
+        },
+        {
+          "name": "Passion Mojito",
+          "description": "",
+          "price": "Rs. 920"
+        },
+        {
+          "name": "Pineapple Mojito",
+          "description": "",
+          "price": "Rs. 920"
+        },
+        {
+          "name": "Blue Mojito",
+          "description": "",
+          "price": "Rs. 920"
+        },
+        {
+          "name": "Orange Mojito",
+          "description": "",
+          "price": "Rs. 1100"
+        },
+        {
+          "name": "Strawberry Mojito",
+          "description": "",
+          "price": "Rs. 1100"
+        },
+        {
+          "name": "Lemon Iced tea",
+          "description": "",
+          "price": "Rs. 800"
+        },
+        {
+          "name": "Soft Drinks 400 ml",
+          "description": "( Pepse/ 7UP / EGB )",
+          "price": "Rs. 320"
+        },
+        {
+          "name": "Red Bull (250ml)",
+          "description": "",
+          "price": "MRP"
+        },
+        {
+          "name": "Mineral Water - 400 ml",
+          "description": "",
+          "price": "MRP"
+        },
+        {
+          "name": "Mineral Water - 1L",
+          "description": "",
+          "price": "MRP"
+        },
+        {
+          "name": "Olu Sparkling Water - 330 ml",
+          "description": "",
+          "price": "MRP"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Hot Coffee",
+      "items": [
+        {
+          "name": "Single Espresso",
+          "description": "",
+          "price": "Rs. 480.00"
+        },
+        {
+          "name": "Double Espresso",
+          "description": "",
+          "price": "Rs. 700.00"
+        },
+        {
+          "name": "Americano ( Black Coffee )",
+          "description": "",
+          "price": "Rs. 580.00"
+        },
+        {
+          "name": "Cappuccino",
+          "description": "",
+          "price": "Rs. 700.00"
+        },
+        {
+          "name": "Cafe Latte",
+          "description": "",
+          "price": "Rs. 720.00"
+        },
+        {
+          "name": "Caramel Latte",
+          "description": "",
+          "price": "Rs. 820.00"
+        },
+        {
+          "name": "Mocha Latte",
+          "description": "",
+          "price": "Rs. 1100.00"
+        },
+        {
+          "name": "Macchiato",
+          "description": "",
+          "price": "Rs. 500.00"
+        }
+      ]
+    },
+    {
+      "name": "Iced Coffee",
+      "items": [
+        {
+          "name": "Ice Espresso",
+          "description": "",
+          "price": "Rs. 700.00"
+        },
+        {
+          "name": "Ice Coffee",
+          "description": "",
+          "price": "Rs. 800.00"
+        },
+        {
+          "name": "Ice Latte",
+          "description": "",
+          "price": "Rs. 750.00"
+        },
+        {
+          "name": "Ice Caramel Latte",
+          "description": "",
+          "price": "Rs. 900.00"
+        },
+        {
+          "name": "Ice Mocha Latte",
+          "description": "",
+          "price": "Rs. 900.00"
+        },
+        {
+          "name": "Ice Chocolate",
+          "description": "",
+          "price": "Rs. 750.00"
+        }
+      ]
+    }
+  ]
+]
